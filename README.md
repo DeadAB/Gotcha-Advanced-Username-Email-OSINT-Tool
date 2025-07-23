@@ -2,7 +2,7 @@
 
 Gotcha! is a powerful open-source OSINT tool designed to uncover online profiles and digital footprints associated with usernames and email addresses. It is built for security researchers, penetration testers, and digital investigators, offering comprehensive search capabilities across various platforms, including social media, adult, professional networks, and more.
 
-#   **Features**  
+# 💠 **Features**  
  
 -	 Extensive Platform Coverage:
 -	 Social Media: Twitter, Instagram, Facebook, LinkedIn, and more.
@@ -16,7 +16,7 @@ Gotcha! is a powerful open-source OSINT tool designed to uncover online profiles
 -	 Connection Resilience: Built-in error handling to manage connection failures gracefully.
 
 
-# **Installation & Usage**
+# ✨ **Installation & Usage**
 
 1. Clone the Repo
 2. install the requirements.txt file:
@@ -29,7 +29,7 @@ Gotcha! is a powerful open-source OSINT tool designed to uncover online profiles
 
 --------------------------------------------------
 
-# ✅ **Adult Platform Support Added**
+# 🔞 **Adult Platform Support Added**
 
 #### New Platforms Added:
 
